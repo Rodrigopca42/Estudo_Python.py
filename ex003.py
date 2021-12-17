@@ -1,4 +1,4 @@
-altura: int 
+altura: float
 salario: float 
 nome: str 
 sexo: str
